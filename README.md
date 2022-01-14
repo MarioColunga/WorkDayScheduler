@@ -9,3 +9,4 @@ https://mariocolunga.github.io/WorkDayScheduler/
 https://github.com/MarioColunga/WorkDayScheduler.git
 
 ![image](https://user-images.githubusercontent.com/87739510/149434944-76d283e7-b632-479e-9229-cc80b5135c96.png)
+![image](https://user-images.githubusercontent.com/87739510/149435070-1a9f82f3-cde1-4875-822a-9e0416897d74.png)
